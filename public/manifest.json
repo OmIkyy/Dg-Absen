@@ -1,0 +1,24 @@
+{
+  "name": "Absensi DG-Komputer",
+  "short_name": "Absensi DG",
+  "description": "Sistem Presensi Presisi Dan Keamanan Terintegrasi - DG Komputer",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

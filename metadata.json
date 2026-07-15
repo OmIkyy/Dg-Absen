@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Karyawan Dg-Komputer",
+  "description": "Aplikasi absensi karyawan modern dengan validasi foto selfie kamera, geolokasi GPS, pengajuan izin/cuti, dan dashboard admin lengkap dengan statistik chart.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
